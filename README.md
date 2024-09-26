@@ -9,7 +9,7 @@ This is a Django-based e-commerce web application featuring a product recommenda
 3. [Requirements](#requirements)
 4. [Installation](#installation)
 5. [Usage](#usage)
-6. [Cython Optimization](#cython-optimization)
+6. [Cython Optimization](#How-to-Compile-Cython-Code)
 7. [Contributing](#contributing)
 8. [License](#license)
 
