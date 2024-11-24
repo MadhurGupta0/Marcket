@@ -11,7 +11,6 @@ This is a Django-based e-commerce web application featuring a product recommenda
 5. [Usage](#usage)
 6. [Cython Optimization](#How-to-Compile-Cython-Code)
 7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Features
 
@@ -105,5 +104,3 @@ This will build the Cython extensions and integrate them with the Django applica
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request with improvements or bug fixes.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
